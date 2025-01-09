@@ -1,0 +1,55 @@
+.wrap{
+background: #FFEEF7;
+width: 900px;
+margin: 10px auto;
+}
+/*bagian header*/
+.wrap .header{
+background: #F3C1DC;
+/*height: 50px;*/
+padding: 2px 10px;
+color: #B9006F;
+}
+/*akhir header*/
+/*bagian menu*/
+.wrap .menu{
+background: #F3C1DC;
+}
+.wrap .menu ul{
+padding: 0;
+margin: 0;
+background: #C6EFF4;
+overflow: hidden;
+}
+.wrap .menu ul li{
+float: left;
+list-style-type: none;
+padding: 10px;
+}
+/*akhir menu*/
+.clear{
+clear: both;
+}
+.badan{
+height: 450px;
+}
+/*bagian sidebar*/
+.wrap .badan .sidebar{
+background: #CCC6F3;
+float: left;
+width: 16%;
+height: 208%;
+}
+/*akhir sidebar*/
+.wrap .badan .content{
+background: #FFEEF7;
+float: left;
+height: 206%;
+width: 80%;
+}
+.wrap .footer{
+background: #F3C1DC;
+width: 97.8%;
+padding: 10px;
+text-align: center;
+}
